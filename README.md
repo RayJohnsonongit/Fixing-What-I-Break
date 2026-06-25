@@ -1,3 +1,3 @@
 # Fixing-What-I-Break
-An old dog learning new tricks
-# Squaring a Circle
+## Learning Life's Lessons the Hard Way
+### Squaring a Circle
